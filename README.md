@@ -8,7 +8,6 @@
 โครงสร้างของโปรแกรม (Class diagram) ของโปรแกรม ใช้ Mermaid ในการเขียน ตัวอย่าง การเขียน Classdiagram ใน Markdown
 ```
 Class diagram
-```Mermaid
   class Form1{
     -Checkpassword()
     -Login()
