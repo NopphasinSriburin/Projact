@@ -1,0 +1,21 @@
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.csproj.AssemblyReference.cache
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject_lab.Form1.resources
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.csproj.GenerateResource.cache
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.AssemblyInfoInputs.cache
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.AssemblyInfo.cs
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.csproj.CoreCompileInputs.cache
+C:\Users\nappa\Desktop\Poject lab\Poject lab\bin\Debug\net6.0-windows\Poject lab.exe
+C:\Users\nappa\Desktop\Poject lab\Poject lab\bin\Debug\net6.0-windows\Poject lab.deps.json
+C:\Users\nappa\Desktop\Poject lab\Poject lab\bin\Debug\net6.0-windows\Poject lab.runtimeconfig.json
+C:\Users\nappa\Desktop\Poject lab\Poject lab\bin\Debug\net6.0-windows\Poject lab.dll
+C:\Users\nappa\Desktop\Poject lab\Poject lab\bin\Debug\net6.0-windows\Poject lab.pdb
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject_lab.Resgiter.resources
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.dll
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\refint\Poject lab.dll
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.pdb
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject lab.genruntimeconfig.cache
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\ref\Poject lab.dll
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject_lab.Insite.resources
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject_lab.Allstd.resources
+C:\Users\nappa\Desktop\Poject lab\Poject lab\obj\Debug\net6.0-windows\Poject_lab.Properties.Resources.resources
