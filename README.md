@@ -11,7 +11,7 @@ Class diagram
 ```Mermaid
 ClassDiagram
   class Form{
-    -Checkpassword
+    -Checkpassword()
     -Login()
    }
   Resgiter{
@@ -46,6 +46,7 @@ ClassDiagram
   Allstd{
     +openfile
   }
+  Resgiter <|-- Form
   Authen <|-- Resgiter
   Login <|-- Authen
   Insite <|-- Login
