@@ -43,12 +43,13 @@ Class Diagram
   }
   class Allstd{
     +openfile
+    +DataGitview
   }
-   Resgiter <|-- Form
-   Authen <|-- Resgiter
-   Login <|-- Authen
-   Insite <|-- Login
-   Allstd <|-- Insite
+  Authen <|-- Resgiter
+  Form <|-- Authen
+  Insite <|-- Form
+  Allstd <|-- Insite
+
 ```
 ชื่อของผู้พัฒนาโปรแกรม
 ```
