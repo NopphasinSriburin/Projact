@@ -8,9 +8,7 @@
 โครงสร้างของโปรแกรม (Class diagram) ของโปรแกรม ใช้ Mermaid ในการเขียน ตัวอย่าง การเขียน Classdiagram ใน Markdown
 ```
 Class diagram
-```Mermaid
-ClassDiagram
-  class Form{
+  class Form1{
     -Checkpassword()
     -Login()
    }
@@ -46,11 +44,11 @@ ClassDiagram
   Allstd{
     +openfile
   }
-  Resgiter <|-- Form
-  Authen <|-- Resgiter
-  Login <|-- Authen
-  Insite <|-- Login
-  Allstd <|-- Insite
+   Resgiter <|-- Form1
+   Authen <|-- Resgiter
+   Login <|-- Authen
+   Insite <|-- Login
+   Allstd <|-- Insite
 
 
 ```
