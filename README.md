@@ -22,7 +22,7 @@ Class diagram
     +String Branch
     -Savedata()
   }
-  Authen{
+  class Authen{
     - String _username
     - String _password
     - String _ID
@@ -39,10 +39,10 @@ Class diagram
     - Checkpassword
     - signup
   }
-  Insite{
+  class Insite{
     +Showdialog Allstd()
   }
-  Allstd{
+  class Allstd{
     +openfile
   }
    Resgiter <|-- Form1
