@@ -8,11 +8,12 @@
 ```
 Class Diagram
 ```mermaid
-  class Form{
+classDiagram
+   class Form{
     -Checkpassword()
     -Login()
    }
-  Resgiter{
+   class Resgiter{
     +String Username
     +String Password
     +String IDst
@@ -20,7 +21,7 @@ Class Diagram
     +String Age
     +String Branch
     -Savedata()
-  }
+   }
   class Authen{
     - String _username
     - String _password
