@@ -10,8 +10,7 @@ Class Diagram
 ```mermaid
 classDiagram
    class Form{
-    -Checkpassword()
-    -Login()
+    +Checkpasswork()
    }
    class Resgiter{
     +String Username
@@ -20,29 +19,28 @@ classDiagram
     +String date
     +String Age
     +String Branch
-    -Savedata()
+    -singup()
+    -getsingup()
    }
   class Authen{
-    - String _username
-    - String _password
-    - String _ID
-    - String Brith
-    - String _Age
-    - String _Branch
-    + openfile
-    - getusername()
-    - getpassword()
-    - getID()
-    - getBrith()
-    - getAge()
-    - getBranch()
-    - Checkpassword
-    - signup
+    -String _username
+    -String _password
+    -String _ID
+    -String Brith
+    -String _Age
+    -String _Branch
+    -Checkpassword()
+    +singup()
+    +getsingup()
+    +Writefile
+    +Readfile
+
   }
   class Insite{
-    +Showdialog Allstd()
+    -Allstdexam()
   }
   class Allstd{
+    -Load()
     +openfile
     +DataGitview
   }
